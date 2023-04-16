@@ -1,0 +1,1 @@
+{"inputUnits":[3],"outputUnits":1,"inputs":{"petalLength":{"dtype":"number","min":1,"max":6.9},"sepalLength":{"dtype":"number","min":4.3,"max":7.9},"sepalWidth":{"dtype":"number","min":2.3,"max":4.4}},"outputs":{"petalWidth":{"dtype":"number","min":0.1,"max":2.5}},"isNormalized":true}
